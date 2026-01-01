@@ -1,8 +1,4 @@
-Elbette, işte GitHub repon için Markdown formatında hazırlanmış, kopyalayıp yapıştırabileceğin tertemiz bir `README.md` dosyası.
 
-Bunu projenin ana dizinine `README.md` ismiyle kaydet.
-
-```markdown
 # LaTeX Automated Response Letter Template 🔄
 
 > **A "Single Source of Truth" workflow for academic peer-review response letters.**
@@ -106,7 +102,5 @@ This project is licensed under the MIT License - see the [LICENSE](https://www.g
 ---
 
 *Created by [Huseyin Karaca*](https://github.com/huseyin-karaca)
-
-```
 
 ```
