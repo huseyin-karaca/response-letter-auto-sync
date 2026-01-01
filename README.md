@@ -102,5 +102,3 @@ This project is licensed under the MIT License - see the [LICENSE](https://www.g
 ---
 
 *Created by [Huseyin Karaca*](https://github.com/huseyin-karaca)
-
-```
